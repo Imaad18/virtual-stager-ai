@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Stager AI",
+  "description": "This is an AI-powered interior design tool that transforms any room into your dream space. Unlike other image generators, this app edits your existing photo, preserving the room's unique architecture while completely changing the furniture and decor to match your prompt.\n\nThis project showcases the advanced image editing and fusion capabilities of the Gemini 2.5 Flash Image model. It was built in 48 hours for the \"Go Bananas!\" hackathon.",
+  "requestFramePermissions": []
+}
